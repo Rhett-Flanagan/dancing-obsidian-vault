@@ -1,0 +1,26 @@
+/* disable title */
+.markdown-embed-title {
+  display: none;
+}
+
+
+/* disable headings*/
+.internal-embed[alt*="no-h1"] .markdown-embed-content h1,
+.internal-embed[alt*="no-h2"] .markdown-embed-content h2,
+.internal-embed[alt*="no-h3"] .markdown-embed-content h3,
+.internal-embed[alt*="no-h4"] .markdown-embed-content h4,
+.internal-embed[alt*="no-h5"] .markdown-embed-content h5,
+.internal-embed[alt*="no-h6"] .markdown-embed-content h6 {
+    display: none;
+}
+
+/*/* change the link background so it's occludes the text when it overlays the source */
+/*.markdown-embed-link {
+  background: var(--color-base-00);
+  opacity: 1;
+}*/
+
+/*.markdown-embed-link:hover {
+  background: var(--color-base-25);
+  opacity: 1;
+}*/*/

@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "nick-milo-callouts",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "extended-colorschemes",
+    "Centering Images",
+    "gradient_custom_callouts"
+  ]
+}

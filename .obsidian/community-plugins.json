@@ -1,0 +1,21 @@
+[
+  "templater-obsidian",
+  "obsidian-admonition",
+  "callout-manager",
+  "obsidian-dictionary-plugin",
+  "obsidian-front-matter-title-plugin",
+  "obsidian-hover-editor",
+  "obsidian-languagetool-plugin",
+  "obsidian-linter",
+  "obsidian-minimal-settings",
+  "note-refactor-obsidian",
+  "obsidian-git",
+  "url-into-selection",
+  "persistent-graph",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "various-complements",
+  "homepage",
+  "obsidian-hider",
+  "cm-editor-syntax-highlight-obsidian"
+]
