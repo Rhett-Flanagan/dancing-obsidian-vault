@@ -1,8 +1,8 @@
 ---
 file_title: Title
-MoC: ""
+dance: 
 references: ""
-tags: [  ]
+tags:
 ---
 
 # Title

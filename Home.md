@@ -20,13 +20,13 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 >
-> > [!Book] [[Glossary]]
+> > [!Book] [Glossary](Glossary.md)
 > > Collection of terms and abbreviations used.
 > 
 > > [!Training] Shoes
 > > Notes on shoes, their materials and benefits for different dances.
 >
-> > [!Locate] [[Alignment]]
+> > [!Locate] [Alignment](Alignment.md)
 > > Descriptions and diagrams of body alignment on the dance floor.
 > 
 >  > [!Map] Floor Work
