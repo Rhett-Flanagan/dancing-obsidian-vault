@@ -8,9 +8,11 @@ title: Home
 # Home
 Welcome to the root of my dancing notes. This is a subvault that I extracted from my monolithic note vault to share with others since I was asked about it quite often.
 
-If you aren't viewing these notes from the webpage version, I recommend downloading [Obsidian](<[Obsidian](https://obsidian.md/)>), the application these notes were taken in, for a better user experience. If you are viewing this from the webpage and want an offline version, I recommend downloading the vault from the [github](https://github.com/Rhett-Flanagan/dancing-obsidian-vault), it is setup with a plugin that will keep the vault up to date if you have git installed.
+If you aren't viewing these notes from the webpage version, I recommend downloading [Obsidian](<[Obsidian](https://obsidian.md/)>), the application these notes were taken in, for a better user experience. If you are viewing this from the webpage, I also recommend downloading the vault from the [github](https://github.com/Rhett-Flanagan/dancing-obsidian-vault), and using Obsidian it is setup with a plugin that will keep the vault up to date if you have git installed and has a better user experience.
 
-This page is the navigational center of my notes on the various forms of dancing I have taken up. They are personal notes built from what I have learned, and are thus not complete, I am not a dance teacher or a professional, haven't compiled notes on dances I don't care for (looking at you Sokkie), steps or dances that I haven't done. The follow side of these notes will also be less comprehensive as I rarely get the opportunity to follow, and most it what I have noticed through partners I have danced with.
+This page is the navigational center of my notes on the various forms of dancing I have taken up, organised using a modified Zettelkasten method rather than a strict file hierarchy. 
+
+These are my personal notes, built from what I have learned, and are thus not complete, I am not a dance teacher or a professional, haven't compiled notes on dances I don't care for (looking at you Sokkie), or steps and dances that I haven't done. The follow side of these notes will also be less comprehensive as I rarely follow, and most notes are what I have noticed through partners I have danced with.
 
 Should you wish to contribute to the notes in any way, you can get in touch with me and we see about what to add.
 
@@ -20,13 +22,13 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 >
-> > [!Book] [[Glossary]]
+> > [!Book] [Glossary](Glossary.md)
 > > Collection of terms and abbreviations used.
 > 
 > > [!Training] Shoes
 > > Notes on shoes, their materials and benefits for different dances.
 >
-> > [!Locate] [[Alignment]]
+> > [!Locate] [Alignment](Alignment.md)
 > > Descriptions and diagrams of body alignment on the dance floor.
 > 
 >  > [!Map] Floor Work
