@@ -17,5 +17,9 @@
   "various-complements",
   "homepage",
   "obsidian-hider",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "make-md",
+  "obsidian-icon-folder",
+  "alx-folder-note",
+  "folder-note-core"
 ]

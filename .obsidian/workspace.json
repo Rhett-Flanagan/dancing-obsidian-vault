@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23229bc5990b17e2",
+        "id": "2b68bf5d1eab930c",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f4d0a3ef14a932",
+            "id": "0e7edd5915e2c66f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Resources/Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,6 +65,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fc359518c0a47b57",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -79,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Resources/Glossary.md"
               }
             }
           },
@@ -114,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Resources/Glossary.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Resources/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Resources/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,11 +204,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2f4d0a3ef14a932",
+  "active": "0e7edd5915e2c66f",
   "lastOpenFiles": [
+    "Home.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "AAA-Utilities/000-Templates/Note-Template.md",
     "Resources/Glossary.md",
-    "Home.md",
     "Resources/Untitled",
     "Resources/Alignment.md",
     "Resources",
