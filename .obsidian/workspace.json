@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -205,6 +205,7 @@
   },
   "active": "1e46abebdb45570c",
   "lastOpenFiles": [
+    "AAA-Utilities/001-Images/handshake.png",
     "AAA-Utilities/001-Images/bible icon.png",
     "AAA-Utilities/001-Images/art icon.png",
     "AAA-Utilities/001-Images/Symmetric.svg",
@@ -215,7 +216,6 @@
     "AAA-Utilities/001-Images/Python Icon.png",
     "AAA-Utilities/001-Images/pen icon.png",
     "AAA-Utilities/001-Images/organic chemistry icon.png",
-    "AAA-Utilities/001-Images/organic chemistry 2 icon.png",
     "Resources/Alignment.md",
     "Resources/Glossary.md",
     "Resources/attachments",
