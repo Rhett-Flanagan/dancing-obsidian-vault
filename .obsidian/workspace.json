@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -205,15 +205,15 @@
   },
   "active": "1e46abebdb45570c",
   "lastOpenFiles": [
-    "AAA-Utilities/001-Images/footwork_icon.png~RF24d784c.TMP",
-    "AAA-Utilities/001-Images/footwork_icon.png.0.pdnSave",
-    "Resources/Glossary.md",
-    "Home.md",
     "Resources/Alignment.md",
+    "Home.md",
+    "Resources/Glossary.md",
+    "AAA-Utilities/001-Images/footwork_icon.png",
+    "AAA-Utilities/001-Images/footwork_icon.png.0.pdnSave",
+    "AAA-Utilities/001-Images/footwork_icon.png~RF24d784c.TMP",
     "AAA-Utilities/001-Images/floor_icon.png~RF246f473.TMP",
     "AAA-Utilities/001-Images/floor_icon.png.0.pdnSave",
     "AAA-Utilities/001-Images/floor_icon.png",
-    "AAA-Utilities/001-Images/footwork_icon.png",
     "AAA-Utilities/001-Images/footwork_icon.jpg",
     "AAA-Utilities/001-Images/handshake.png.0.pdnSave",
     "AAA-Utilities/001-Images/handshake_icon.png",
@@ -230,7 +230,6 @@
     "AAA-Utilities/000-Templates",
     "Context/spacesLastSync.log",
     "Context",
-    "Context/spacesLastSync.log",
-    "Context"
+    "Context/spacesLastSync.log"
   ]
 }
