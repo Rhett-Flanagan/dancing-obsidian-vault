@@ -1,5 +1,31 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "resources_gradient_1": {
+      "type": "resources_gradient_1",
+      "color": "247, 37, 133",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Resource",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "resources_gradient_2": {
+      "type": "resources_gradient_2",
+      "color": "190, 92, 169",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Resources",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.1.1",
