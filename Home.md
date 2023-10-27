@@ -20,19 +20,19 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 >
-> > [!Book] [Glossary](Glossary.md)
+> > [!blue_gradient_1]+ [Glossary](Glossary.md)
 > > Collection of terms and abbreviations used.
 > 
-> > [!Training] Shoes
+> > [!blue_gradient_2]+ Shoes
 > > Notes on shoes, their materials and benefits for different dances.
 >
-> > [!Locate] [Alignment](Alignment.md)
+> > [!blue_gradient_3]+ [Alignment](Alignment.md)
 > > Descriptions and diagrams of body alignment on the dance floor.
 > 
->  > [!Map] Floor Work
+>  > [!blue_gradient_4]+ Floor Work
 >  > Notes on avoiding people, what to look out for and general awareness.
 >  
->  > [!Link] Etiquette 
+>  > [!blue_gradient_5]+ Etiquette 
 >  > Notes on the etiquette of navigating a dance floor.
 
 ## Ballroom Dances

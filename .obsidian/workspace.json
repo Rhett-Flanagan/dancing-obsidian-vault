@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Alignment.md",
-                "mode": "source",
-                "source": false
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Alignment.md"
+                "file": "Home.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Alignment.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Alignment.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Alignment.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +203,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e46abebdb45570c",
+  "active": "f8e1451f859d49d5",
   "lastOpenFiles": [
-    "Resources/Glossary.md",
+    "AAA-Utilities/001-Images/bible icon.png",
+    "AAA-Utilities/001-Images/art icon.png",
+    "AAA-Utilities/001-Images/Symmetric.svg",
+    "AAA-Utilities/001-Images/statistics icon.png",
+    "AAA-Utilities/001-Images/south america icon.png",
+    "AAA-Utilities/001-Images/socrates icon.png",
+    "AAA-Utilities/001-Images/reals.svg",
+    "AAA-Utilities/001-Images/Python Icon.png",
+    "AAA-Utilities/001-Images/pen icon.png",
+    "AAA-Utilities/001-Images/organic chemistry icon.png",
+    "AAA-Utilities/001-Images/organic chemistry 2 icon.png",
     "Resources/Alignment.md",
-    "Resources/attachments/Pasted image 20231027152544.png",
+    "Resources/Glossary.md",
     "Resources/attachments",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
