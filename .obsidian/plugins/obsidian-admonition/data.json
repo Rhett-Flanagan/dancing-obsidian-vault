@@ -74,6 +74,18 @@
       "title": "Ballroom Dance",
       "injectColor": true,
       "noTitle": false
+    },
+    "ballroom_gradient_3": {
+      "type": "ballroom_gradient_3",
+      "color": "85, 51, 198",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
