@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -205,7 +205,11 @@
   },
   "active": "1e46abebdb45570c",
   "lastOpenFiles": [
+    "Resources/Glossary.md",
+    "Home.md",
+    "AAA-Utilities/001-Images/footwork_icon.png.0.pdnSave",
     "AAA-Utilities/001-Images/footwork_icon.png",
+    "AAA-Utilities/001-Images/footwork_icon.jpg",
     "AAA-Utilities/001-Images/handshake.png.0.pdnSave",
     "AAA-Utilities/001-Images/handshake_icon.png",
     "AAA-Utilities/001-Images/bible icon.png",
@@ -215,23 +219,17 @@
     "AAA-Utilities/001-Images/south america icon.png",
     "AAA-Utilities/001-Images/socrates icon.png",
     "AAA-Utilities/001-Images/reals.svg",
-    "AAA-Utilities/001-Images/Python Icon.png",
-    "AAA-Utilities/001-Images/pen icon.png",
     "Resources/Alignment.md",
-    "Resources/Glossary.md",
     "Resources/attachments",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
     "AAA-Utilities/000-Templates/Dance-Note-Template.md",
     "AAA-Utilities/000-Templates",
-    "Home.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Home.md",
     "Context/spacesLastSync.log",
     "Context",
     "Resources/Untitled",
-    "Resources",
-    "AAA-Utilities/001-Images"
+    "Resources"
   ]
 }

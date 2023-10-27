@@ -25,7 +25,8 @@ Preamble done, onto the notes:
 > > Collection of terms and abbreviations used.
 > 
 >
-> > [!pink_gradient_2]+ [Alignment](Alignment.md)
+> > [!pink_gradient_2]+ Alignment
+> > [![[footwork_icon.png|center|60]]](Alignment.md)
 > > Descriptions and diagrams of body alignment on the dance floor.
 > 
 >  > [!pink_gradient_3]+ Floor Work
