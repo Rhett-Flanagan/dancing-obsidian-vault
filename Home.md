@@ -22,14 +22,14 @@ Preamble done, onto the notes:
 >
 > > [!pink_gradient_1]+ Glossary
 > > [![[book_icon.png|center|60]]](Glossary.md)
-> > Collection of terms and abbreviations used.
+> > Collection of terms and abbreviations used throughout this and other resources.
 > 
->
 > > [!pink_gradient_2]+ Alignment
 > > [![[footwork_icon.png|center|60]]](Alignment.md)
-> > Descriptions and diagrams of body alignment on the dance floor.
+> > Descriptions and diagrams of movement alignment on the dance floor.
 > 
->  > [!pink_gradient_3]+ Floor Work
+>  > [!pink_gradient_3]+ Floorwork
+>  > [![[floor_icon.png|center|60]]](Floorwork.md)
 >  > Notes on avoiding people, what to look out for and general awareness.
 >  
 >  > [!pink_gradient_4]+ Etiquette 

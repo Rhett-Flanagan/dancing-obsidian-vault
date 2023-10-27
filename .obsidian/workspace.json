@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -206,7 +206,11 @@
   "active": "1e46abebdb45570c",
   "lastOpenFiles": [
     "Resources/Glossary.md",
+    "Resources/Alignment.md",
     "Home.md",
+    "AAA-Utilities/001-Images/floor_icon.png~RF246f473.TMP",
+    "AAA-Utilities/001-Images/floor_icon.png.0.pdnSave",
+    "AAA-Utilities/001-Images/floor_icon.png",
     "AAA-Utilities/001-Images/footwork_icon.png.0.pdnSave",
     "AAA-Utilities/001-Images/footwork_icon.png",
     "AAA-Utilities/001-Images/footwork_icon.jpg",
@@ -218,8 +222,6 @@
     "AAA-Utilities/001-Images/statistics icon.png",
     "AAA-Utilities/001-Images/south america icon.png",
     "AAA-Utilities/001-Images/socrates icon.png",
-    "AAA-Utilities/001-Images/reals.svg",
-    "Resources/Alignment.md",
     "Resources/attachments",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
@@ -228,8 +230,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Context/spacesLastSync.log",
-    "Context",
-    "Resources/Untitled",
-    "Resources"
+    "Context"
   ]
 }
