@@ -65,7 +65,7 @@
     },
     "ballroom_gradient_2": {
       "type": "ballroom_gradient_2",
-      "color": "85, 64, 216",
+      "color": "84, 67, 218",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -73,11 +73,12 @@
       "command": false,
       "title": "Ballroom Dance",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "ballroom_gradient_3": {
       "type": "ballroom_gradient_3",
-      "color": "85, 51, 198",
+      "color": "84, 56, 196",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
