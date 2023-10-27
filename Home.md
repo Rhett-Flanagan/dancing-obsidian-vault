@@ -21,7 +21,7 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 >
 > > [!pink_gradient_1]+ Glossary
-> > [![[book icon.png|center|60]]](Glossary.md)
+> > [![[book_icon.png|center|60]]](Glossary.md)
 > > Collection of terms and abbreviations used.
 > 
 >
@@ -32,6 +32,7 @@ Preamble done, onto the notes:
 >  > Notes on avoiding people, what to look out for and general awareness.
 >  
 >  > [!pink_gradient_4]+ Etiquette 
+>  > [![[handshake_icon.png|center|60]]](Etiquette.md)
 >  > Notes on the etiquette of navigating a dance floor, competitions and other similar events.
 
 ## Ballroom Dances
