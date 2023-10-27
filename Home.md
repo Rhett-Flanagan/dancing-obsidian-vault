@@ -38,6 +38,27 @@ Preamble done, onto the notes:
 
 ## Ballroom Dances
 
+> [!multi-column|center]
+> 
+> >[!blue_gradient_1]+ Slow Waltz
+> 
+> 
+> >[!blue_gradient_1]+ Tango
+> 
+> 
+> >[!blue_gradient_1]+ Viennese Waltz
+> 
+> 
+> >[!blue_gradient_1]+ Slow Foxtrot
+> 
+> 
+> > [!blue_gradient_1]+ Quickstep
+> 
+> 
+> > [!blue_gradient_1]+ Slow Foxtrot
+> 
+> 
+
 - Slow Waltz
 
 - Quickstep
