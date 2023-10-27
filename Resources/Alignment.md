@@ -10,7 +10,7 @@ To help facilitate dancing around the ballroom without collision in travelling d
 
 Generally, when a pattern mentions an alignment direction, the direction is given from the perspective of the lead. Sometimes the alignment will be given as pointing, rather than facing. This means that the foot is placed facing that direction, but the body does not yet.
 
-
+The diagram below illustrates the facing direction and the line of dance around a dance floor. 
 
 
 
