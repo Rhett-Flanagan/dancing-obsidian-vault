@@ -20,19 +20,19 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 >
-> > [!pink_gradient_1]+ Glossary
+> > [!resources_gradient_1]+ Glossary
 > > [![[book_icon.png|center|100]]](Glossary.md)
 > > Collection of terms and abbreviations used throughout this and other resources.
 > 
-> > [!pink_gradient_2]+ Alignment
+> > [!resources_gradient_2]+ Alignment
 > > [![[footwork_icon.png|center|100]]](Alignment.md)
 > > Descriptions and diagrams of movement alignment on the dance floor.
 > 
->  > [!pink_gradient_3]+ Floorwork
+>  > [!resources_gradient_3]+ Floorwork
 >  > [![[floor_icon.png|center|100]]](Floorwork.md)
 >  > Notes on avoiding people, what to look out for and general awareness.
 >  
->  > [!pink_gradient_4]+ Etiquette 
+>  > [!resources_gradient_4]+ Etiquette 
 >  > [![[handshake_icon.png|center|100]]](Etiquette.md)
 >  > Notes on the etiquette of navigating a dance floor, competitions and other similar events.
 
@@ -40,22 +40,22 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 > 
-> > [!blue_gradient_1]+ Slow Waltz
+> > [!ballroom_gradient_1]+ Slow Waltz
 > 
 > 
-> > [!blue_gradient_2]+ Tango
+> > [!ballroom_gradient_2]+ Tango
 > 
 > 
-> > [!blue_gradient_3]+ Viennese Waltz
+> > [!ballroom_gradient_3]+ Viennese Waltz
 > 
 > 
-> > [!blue_gradient_4]+ Slow Foxtrot
+> > [!ballroom_gradient_4]+ Slow Foxtrot
 > 
 > 
-> > [!blue_gradient_5]+ Quickstep
+> > [!ballroom_gradient_5]+ Quickstep
 > 
 > 
-> > [!blue_gradient_6]+ Rhythm Foxtrot
+> > [!ballroom_gradient_6]+ Rhythm Foxtrot
 > 
 > 
 
@@ -63,19 +63,19 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 > 
-> > [!blue_gradient_7]+ Slow Waltz
+> > [!latin_gradient_1]+ Cha Cha Cha
 > 
 > 
-> > [!blue_gradient_8]+ Tango
+> > [!latin_gradient_2]+ Samba
 > 
 > 
-> > [!blue_gradient_9]+ Viennese Waltz
+> > [!latin_gradient_3]+ Rumba
 > 
 > 
-> > [!blue_gradient_10]+ Slow Foxtrot
+> > [!latin_gradient_4]+ Slow Foxtrot
 > 
 > 
-> > [!blue_gradient_11]+ Quickstep
+> > [!latin_gradient_5]+ Quickstep
 > 
 > 
 > > [!blue_gradient_12]+ Rhythm Foxtrot
