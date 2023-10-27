@@ -101,6 +101,84 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "ballroom_gradient_5": {
+      "type": "ballroom_gradient_5",
+      "color": "82, 36, 153",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "ballroom_gradient_6": {
+      "type": "ballroom_gradient_6",
+      "color": "82, 25, 131",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "latin_gradient_1": {
+      "type": "latin_gradient_1",
+      "color": "81, 15, 109",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "latin_gradient_2": {
+      "type": "latin_gradient_2",
+      "color": "98, 12, 87",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "latin_gradient_3": {
+      "type": "latin_gradient_3",
+      "color": "116, 9, 65",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "latin_gradient_4": {
+      "type": "latin_gradient_4",
+      "color": "133, 6, 44",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "latin_gradient_5": {
+      "type": "latin_gradient_5",
+      "color": "151, 3, 22",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
