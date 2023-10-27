@@ -5,7 +5,6 @@ references: "[Dance Central - Glossary](https://www.dancecentral.info/ballroom/r
 tags:
   - resource
 ---
-
 # Glossary
  This is a list of terms and abbreviations frequently used throughout these notes and what they mean and reference.
 

@@ -145,7 +145,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224422,
                   "close": true
                 }
               }
@@ -203,18 +203,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f8e1451f859d49d5",
+  "active": "1e46abebdb45570c",
   "lastOpenFiles": [
+    "Resources/attachments/Pasted image 20231027152544.png",
+    "Resources/attachments",
+    "Resources/Glossary.md",
+    "Resources/Alignment.md",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
     "AAA-Utilities/000-Templates/Dance-Note-Template.md",
     "AAA-Utilities/000-Templates",
-    "Resources/Glossary.md",
     "Home.md",
     "Context/spacesLastSync.log",
     "Context",
     "Home.md",
-    "Resources/Alignment.md",
     "Context/spacesLastSync.log",
     "Context",
     "Resources/Untitled",
