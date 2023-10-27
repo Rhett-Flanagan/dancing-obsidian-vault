@@ -104,6 +104,6 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 > 
-> > [!social_gradient_1]+ Cotton Eh
+> > [!line_gradient_1]+ Cotton Eye Joe
 > 
 > 
