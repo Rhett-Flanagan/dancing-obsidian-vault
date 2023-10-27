@@ -40,42 +40,51 @@ Preamble done, onto the notes:
 
 > [!multi-column|center]
 > 
-> >[!blue_gradient_1]+ Slow Waltz
+> > [!blue_gradient_1]+ Slow Waltz
 > 
 > 
-> >[!blue_gradient_1]+ Tango
+> > [!blue_gradient_2]+ Tango
 > 
 > 
-> >[!blue_gradient_1]+ Viennese Waltz
+> > [!blue_gradient_3]+ Viennese Waltz
 > 
 > 
-> >[!blue_gradient_1]+ Slow Foxtrot
+> > [!blue_gradient_4]+ Slow Foxtrot
 > 
 > 
-> > [!blue_gradient_1]+ Quickstep
+> > [!blue_gradient_5]+ Quickstep
 > 
 > 
-> > [!blue_gradient_1]+ Slow Foxtrot
+> > [!blue_gradient_6]+ Rhythm Foxtrot
 > 
 > 
-
-- Slow Waltz
-
-- Quickstep
-
-- Tango
-
-- Slow Foxtrot
-
-- Viennese Waltz
-
-- Rhythm Foxtrot
 
 ## Latin Dances
 
+> [!multi-column|center]
+> 
+> > [!blue_gradient_7]+ Slow Waltz
+> 
+> 
+> > [!blue_gradient_8]+ Tango
+> 
+> 
+> > [!blue_gradient_9]+ Viennese Waltz
+> 
+> 
+> > [!blue_gradient_10]+ Slow Foxtrot
+> 
+> 
+> > [!blue_gradient_11]+ Quickstep
+> 
+> 
+> > [!blue_gradient_12]+ Rhythm Foxtrot
+> 
+> 
+
 - Cha Cha Cha
 
-- International Rumba
+- International/Cuban Rumba
 
 - Jive
 
