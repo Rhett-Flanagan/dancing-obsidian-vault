@@ -69,37 +69,41 @@ Preamble done, onto the notes:
 > > [!latin_gradient_2]+ Samba
 > 
 > 
-> > [!latin_gradient_3]+ Rumba
+> > [!latin_gradient_3]+ Cuban/International Rumba
 > 
 > 
-> > [!latin_gradient_4]+ Slow Foxtrot
+> > [!latin_gradient_4]+ Paso Doble
 > 
 > 
-> > [!latin_gradient_5]+ Quickstep
+> > [!latin_gradient_5]+ Jive
 > 
 > 
-> > [!blue_gradient_12]+ Rhythm Foxtrot
-> 
-> 
-
-- Cha Cha Cha
-
-- International/Cuban Rumba
-
-- Jive
-
-- Samba
-
-- Paso Doble
 
 ## Non-Competition/Extra Dances
 
-- Boogie
+> [!multi-column|center]
+> 
+> > [!social_gradient_1]+ Salsa
+> 
+> 
+> > [!social_gradient_2]+ Bachata 
+> 
+> 
+> > [!social_gradient_3]+ American/Box Rumba
+> 
+> 
+> > [!social_gradient_4]+ Argentine Tango
+> 
+> 
+> > [!social_gradient_5]+ Boogie
+> 
+> 
 
-- Salsa
-
-- Argentine Tango
 
 ## Line Dances
 
-- Cotton Eye Joe
+> [!multi-column|center]
+> 
+> > [!social_gradient_1]+ Cotton Eh
+> 
+> 

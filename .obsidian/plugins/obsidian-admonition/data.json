@@ -213,14 +213,48 @@
       "injectColor": true,
       "noTitle": false
     },
-    "line_dance_1": {
-      "type": "line_dance_1",
-      "color": "232, 73, 0",
+    "social_gradient_4": {
+      "type": "social_gradient_4",
+      "color": "211, 49, 0",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
       "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "social_gradient_5": {
+      "type": "social_gradient_5",
+      "color": "225, 65, 0",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "social_gradient_6": {
+      "type": "social_gradient_6",
+      "color": "239, 81, 0",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "line_gradient_1": {
+      "type": "line_gradient_1",
+      "color": "253, 97, 0",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
       "injectColor": true,
       "noTitle": false
     }
