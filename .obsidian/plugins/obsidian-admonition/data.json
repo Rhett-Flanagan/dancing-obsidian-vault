@@ -8,7 +8,7 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Resource",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -21,7 +21,7 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Resources",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -46,7 +46,7 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Resource",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -59,9 +59,10 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Ballroom Dance",
+      "title": null,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "ballroom_gradient_2": {
       "type": "ballroom_gradient_2",
@@ -71,7 +72,7 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Ballroom Dance",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -84,6 +85,19 @@
         "type": "font-awesome"
       },
       "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "ballroom_gradient_4": {
+      "type": "ballroom_gradient_4",
+      "color": "83, 46, 175",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
