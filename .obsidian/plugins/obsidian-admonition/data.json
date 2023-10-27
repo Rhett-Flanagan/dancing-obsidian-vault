@@ -15,7 +15,7 @@
     },
     "resources_gradient_2": {
       "type": "resources_gradient_2",
-      "color": "28, 182, 250",
+      "color": "21, 195, 251",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -28,7 +28,7 @@
     },
     "resources_gradient_3": {
       "type": "resources_gradient_3",
-      "color": "57, 129, 245",
+      "color": "43, 156, 248",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -40,13 +40,38 @@
     },
     "resource_gradient_4": {
       "type": "resource_gradient_4",
-      "color": "85, 77, 240",
+      "color": "64, 116, 248",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
       "command": false,
       "title": "Resource",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "ballroom_gradient_1": {
+      "type": "ballroom_gradient_1",
+      "color": "85, 77, 240",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Ballroom Dance",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "ballroom_gradient_2": {
+      "type": "ballroom_gradient_2",
+      "color": "85, 64, 216",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Ballroom Dance",
       "injectColor": true,
       "noTitle": false
     }
