@@ -1,9 +1,8 @@
 ---
 file_title: Title
-parent: "[Home](Home.md)"
+parent: [Home](../../Home.md)
 references: ""
 tags:
-  - resource
 ---
 [Home](../../Home.md)
 # Title

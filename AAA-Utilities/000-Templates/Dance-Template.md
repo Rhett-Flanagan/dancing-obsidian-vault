@@ -4,5 +4,5 @@ style:
 references: ""
 tags:
 ---
-
+[[style]]
 # Title

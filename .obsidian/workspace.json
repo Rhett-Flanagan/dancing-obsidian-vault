@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
-                "mode": "preview",
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md"
+                "file": "AAA-Utilities/000-Templates/Style-Template.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,11 @@
   },
   "active": "06209704a0924023",
   "lastOpenFiles": [
+    "AAA-Utilities/000-Templates/Resource-Note-Template.md",
+    "AAA-Utilities/000-Templates/Style-Template.md",
+    "AAA-Utilities/000-Templates/Figure-Note-Template.md",
+    "AAA-Utilities/000-Templates/Dance-Template.md",
+    "Ballroom_Dances/Ballroom_Dances.md",
     "Home.md",
     "Ballroom_Dances/Tango/Tango.md",
     "AAA-Utilities/001-Images/cuban_rumba_icon.png",
@@ -219,7 +224,6 @@
     "Resources/Etiquette.md",
     "Resources/Floorwork.md",
     "Ballroom_Dances/Quickstep/Quickstep.md",
-    "Ballroom_Dances/Ballroom_Dances.md",
     "Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md",
     "Ballroom_Dances/Slow_Waltz/Slow_Waltz.md",
     "Ballroom_Dances/Slow_Foxtrot/Slow_Foxtrot.md",
@@ -236,9 +240,6 @@
     "AAA-Utilities/001-Images/slow_waltz_icon.png",
     "AAA-Utilities/001-Images/book_icon.png",
     "Resources/attachments/Alignment_Diagram.png",
-    "Resources/Alignment.md",
-    "AAA-Utilities/000-Templates/Resource-Note-Template.md",
-    "AAA-Utilities/000-Templates/Figure-Note-Template.md",
-    "AAA-Utilities/000-Templates/Dance-Note-Template.md"
+    "Resources/Alignment.md"
   ]
 }

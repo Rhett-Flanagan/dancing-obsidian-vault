@@ -4,7 +4,7 @@ dance:
 references: ""
 tags:
 ---
-
+[[dance]]
 # Title
 
 ## Footwork
