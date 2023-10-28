@@ -79,7 +79,7 @@ Preamble done, onto the notes:
 > 
 > 
 
-## Non-Competition/Extra Dances
+## Extra Dances
 
 > [!multi-column|center]
 > 

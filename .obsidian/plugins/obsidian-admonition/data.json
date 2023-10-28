@@ -140,7 +140,7 @@
     },
     "latin_gradient_2": {
       "type": "latin_gradient_2",
-      "color": "227, 77, 199",
+      "color": "226, 77, 207",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -152,7 +152,7 @@
     },
     "latin_gradient_3": {
       "type": "latin_gradient_3",
-      "color": "232, 77, 159",
+      "color": "230, 77, 175",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -188,40 +188,43 @@
     },
     "social_gradient_1": {
       "type": "social_gradient_1",
-      "color": "168, 0, 0",
+      "color": "240, 77, 77",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "social_gradient_2": {
       "type": "social_gradient_2",
-      "color": "189, 24, 0",
+      "color": "242, 88, 66",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "social_gradient_3": {
       "type": "social_gradient_3",
-      "color": "211, 49, 0",
+      "color": "244, 100, 55",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "social_gradient_4": {
       "type": "social_gradient_4",
-      "color": "211, 49, 0",
+      "color": "246, 111, 44",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
@@ -233,34 +236,47 @@
     },
     "social_gradient_5": {
       "type": "social_gradient_5",
-      "color": "225, 65, 0",
+      "color": "249, 123, 33",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "social_gradient_6": {
       "type": "social_gradient_6",
-      "color": "239, 81, 0",
+      "color": "251, 134, 22",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "social_gradient_7": {
+      "type": "social_gradient_7",
+      "color": "253, 146, 11",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": true,
       "injectColor": true,
       "noTitle": false
     },
     "line_gradient_1": {
       "type": "line_gradient_1",
-      "color": "253, 97, 0",
+      "color": "255, 157, 0",
       "icon": {
         "name": "adjust",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": false
     }
