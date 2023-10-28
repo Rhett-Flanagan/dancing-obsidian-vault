@@ -74,23 +74,23 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!latin_gradient_1]+ Cha Cha Cha
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/cha_cha_cha_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_2]+ Samba
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/samba_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_3]+ Cuban/International Rumba
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![rumba_icon](AAA-Utilities/001-Images/rumba_icon.jpg)]
 > > 
 > 
 > > [!latin_gradient_4]+ Paso Doble
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_5]+ Jive
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]]
 > > 
 > 
 
