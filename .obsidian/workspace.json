@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0f9b08aec791a848",
+        "id": "a4762ff9fd418eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca0c10ec9b5b53c",
+            "id": "06209704a0924023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -203,10 +203,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ca0c10ec9b5b53c",
+  "active": "06209704a0924023",
   "lastOpenFiles": [
-    "Ballroom_Dances/Quickstep/Quickstep.md",
+    "Resources/Glossary.md",
+    "Resources/Etiquette.md",
     "Home.md",
+    "Resources/Floorwork.md",
+    "Ballroom_Dances/Quickstep/Quickstep.md",
     "Ballroom_Dances/Ballroom_Dances.md",
     "Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md",
     "Ballroom_Dances/Tango/Tango.md",
@@ -223,7 +226,6 @@
     "Extra_Dances",
     "Latin_Dances/Jive",
     "Latin_Dances/Paso_Doble",
-    "Resources/Glossary.md",
     "AAA-Utilities/001-Images/slowfox_icon.png",
     "AAA-Utilities/001-Images/slow_waltz_icon.png",
     "AAA-Utilities/001-Images/book_icon.png",
@@ -233,8 +235,6 @@
     "AAA-Utilities/001-Images/slowfox_icon.jpg",
     "AAA-Utilities/001-Images/sfox_icon.png",
     "AAA-Utilities/001-Images/slow_waltz_icon.jpg",
-    "Resources/Floorwork.md",
-    "Resources/Etiquette.md",
     "Resources/Alignment.md",
     "AAA-Utilities/001-Images/calculus icon.svg",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
