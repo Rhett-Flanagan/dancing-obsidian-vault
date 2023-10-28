@@ -45,27 +45,27 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/slow_waltz_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 > > [!ballroom_gradient_2]+ Tango
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/tango_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 > > [!ballroom_gradient_3]+ Viennese Waltz
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/viennese_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 > > [!ballroom_gradient_4]+ Slow Foxtrot
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/slowfox_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 > > [!ballroom_gradient_5]+ Quickstep
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/quickstep_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 > > [!ballroom_gradient_6]+ Rhythm Foxtrot
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/rhythmfox_icon.png|center|100]]](Resources/Glossary.md)
 > > 
 > 
 
@@ -74,19 +74,24 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!latin_gradient_1]+ Cha Cha Cha
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!latin_gradient_2]+ Samba
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!latin_gradient_3]+ Cuban/International Rumba
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!latin_gradient_4]+ Paso Doble
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!latin_gradient_5]+ Jive
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 
 ## Extra Dances
