@@ -45,7 +45,7 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
-> > [![[AAA-Utilities/001-Images/slow_waltz_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/slow_waltz_icon.png|center|100]]]
 > > 
 > 
 > > [!ballroom_gradient_2]+ Tango
@@ -61,7 +61,7 @@ Preamble done, onto the notes:
 > > 
 > 
 > > [!ballroom_gradient_5]+ Quickstep
-> > [![[AAA-Utilities/001-Images/quickstep_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA-Utilities/001-Images/quickstep_icon.png|center|100]]](Ballroom_Dances/Quickstep/Quickstep.md)
 > > 
 > 
 > > [!ballroom_gradient_6]+ Rhythm Foxtrot
