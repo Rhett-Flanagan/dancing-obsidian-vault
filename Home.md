@@ -82,15 +82,15 @@ Preamble done, onto the notes:
 > > 
 > 
 > > [!latin_gradient_3]+ Cuban/International Rumba
-> > [![rumba_icon](AAA-Utilities/001-Images/rumba_icon.jpg)]
+> > [![rumba_icon](AAA-Utilities/001-Images/cuban_rumba_icon.png)]
 > > 
 > 
 > > [!latin_gradient_4]+ Paso Doble
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]]
+> > [![[AAA-Utilities/001-Images/paso_doble_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_5]+ Jive
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]]
+> > [![[AAA-Utilities/001-Images/jive_icon.png|center|100]]]
 > > 
 > 
 
