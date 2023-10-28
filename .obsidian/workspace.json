@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "AAA-Utilities/000-Templates/Dance-Template.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md"
+                "file": "AAA-Utilities/000-Templates/Dance-Template.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "AAA-Utilities/000-Templates/Dance-Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "AAA-Utilities/000-Templates/Dance-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "AAA-Utilities/000-Templates/Dance-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +205,11 @@
   },
   "active": "06209704a0924023",
   "lastOpenFiles": [
-    "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Style-Template.md",
-    "AAA-Utilities/000-Templates/Figure-Note-Template.md",
     "AAA-Utilities/000-Templates/Dance-Template.md",
+    "AAA-Utilities/000-Templates/Figure-Note-Template.md",
+    "Ballroom_Dances/Slow_Waltz/Slow_Waltz.md",
+    "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "Ballroom_Dances/Ballroom_Dances.md",
     "Home.md",
     "Ballroom_Dances/Tango/Tango.md",
@@ -225,7 +226,6 @@
     "Resources/Floorwork.md",
     "Ballroom_Dances/Quickstep/Quickstep.md",
     "Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md",
-    "Ballroom_Dances/Slow_Waltz/Slow_Waltz.md",
     "Ballroom_Dances/Slow_Foxtrot/Slow_Foxtrot.md",
     "Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md",
     "Line_Dances/Cotton_Eye_Joe",

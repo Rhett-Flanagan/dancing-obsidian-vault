@@ -12,13 +12,14 @@ tags:
 > [!multi-column] 
 > 
 > > [!user] Lead
->
+> > 1. 
 >
 > > [!user] Follow
-> 
+> > 2.
 > 
 
 
 ## Preceding Figures
+
 
 ## Following Figures
