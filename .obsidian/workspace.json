@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -205,8 +205,14 @@
   },
   "active": "7ca0c10ec9b5b53c",
   "lastOpenFiles": [
-    "Resources/Glossary.md",
+    "AAA-Utilities/001-Images/rhythmfox_icon.png",
+    "AAA-Utilities/001-Images/slowfox_icon.jpg",
+    "AAA-Utilities/001-Images/sfox_icon.png",
+    "AAA-Utilities/001-Images/slow_waltz_icon.jpg",
+    "Resources/Floorwork.md",
     "Home.md",
+    "Resources/Etiquette.md",
+    "Resources/Glossary.md",
     "AAA-Utilities/001-Images/floor_icon.png.0.pdnSave",
     "AAA-Utilities/001-Images/handshake_icon.png.0.pdnSave",
     "AAA-Utilities/001-Images/footwork_icon.png.0.pdnSave",
@@ -224,9 +230,6 @@
     "AAA-Utilities/001-Images/handshake.png",
     "AAA-Utilities/001-Images/footwork_icon.jpg",
     "AAA-Utilities/001-Images/waltz_icon.jpg",
-    "AAA-Utilities/001-Images/tango_icon.png",
-    "AAA-Utilities/001-Images/viennese_icon.png",
-    "AAA-Utilities/001-Images/footwork_icon.png",
     "AAA-Utilities/001-Images/footwork_icon.png~RF24d784c.TMP",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
