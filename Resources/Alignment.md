@@ -15,4 +15,4 @@ The diagram below illustrates the facing direction and the line of dance around 
 
 
 
-![](Pasted%20image%2020231027152544.png)
+![](attachments/Alignment_Diagram.png)

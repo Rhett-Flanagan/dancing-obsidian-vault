@@ -21,42 +21,52 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 >
 > > [!resources_gradient_1]+ Glossary
-> > [![[book_icon.png|center|100]]](Glossary.md)
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
 > > Collection of terms and abbreviations used throughout this and other resources.
+> > 
 > 
 > > [!resources_gradient_2]+ Alignment
-> > [![[footwork_icon.png|center|100]]](Alignment.md)
+> > [![[AAA-Utilities/001-Images/footwork_icon.png|center|100]]](Resources/Alignment.md)
 > > Descriptions and diagrams of movement alignment on the dance floor.
+> > 
 > 
 >  > [!resources_gradient_3]+ Floorwork
->  > [![[floor_icon.png|center|100]]](Floorwork.md)
+>  > [![[AAA-Utilities/001-Images/floor_icon.png|center|100]]](Resources/Floorwork.md)
 >  > Notes on avoiding people, what to look out for and general awareness.
+>  > 
 >  
 >  > [!resources_gradient_4]+ Etiquette 
->  > [![[handshake_icon.png|center|100]]](Etiquette.md)
+>  > [![[AAA-Utilities/001-Images/handshake_icon.png|center|100]]](Resources/Etiquette.md)
 >  > Notes on the etiquette of navigating a dance floor, competitions and other similar events.
+>  > 
 
 ## Ballroom Dances
 
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!ballroom_gradient_2]+ Tango
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!ballroom_gradient_3]+ Viennese Waltz
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!ballroom_gradient_4]+ Slow Foxtrot
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!ballroom_gradient_5]+ Quickstep
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 > > [!ballroom_gradient_6]+ Rhythm Foxtrot
-> 
+> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > 
 > 
 
 ## Latin Dances
