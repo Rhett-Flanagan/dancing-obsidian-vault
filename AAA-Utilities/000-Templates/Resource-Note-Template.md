@@ -5,5 +5,5 @@ references: ""
 tags:
   - resource
 ---
-[Home](../../Home.md)
+[Dancing](../../Dancing.md)
 # Title

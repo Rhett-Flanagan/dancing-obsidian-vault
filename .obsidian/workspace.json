@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Dancing.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Dancing.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Dancing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
     "Ballroom_Dances/Slow_Waltz/Slow_Waltz.md",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "Ballroom_Dances/Ballroom_Dances.md",
-    "Home.md",
+    "Dancing.md",
     "Ballroom_Dances/Tango/Tango.md",
     "AAA-Utilities/001-Images/cuban_rumba_icon.png",
     "AAA-Utilities/001-Images/jive_icon.png",

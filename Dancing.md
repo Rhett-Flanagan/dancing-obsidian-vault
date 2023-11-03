@@ -1,9 +1,9 @@
 ---
+title: Dancing
+draft: false
 tags: 
 aliases:
   - "000"
-title: Home
-
 ---
 # Home
 Welcome to the root of my dancing notes. This is a subvault that I extracted from my monolithic note vault to share with others since I was asked about often.
