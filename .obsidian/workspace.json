@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "538f61d644ef51fd",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AAA-Utilities/000-Templates/Style-Template.md"
+              }
             }
           },
           {
@@ -123,6 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "538f61d644ef51fd",
+  "active": "7f3f48137e151093",
   "lastOpenFiles": [
     "AAA-Utilities/000-Templates/Style-Template.md",
     "Spaces/Home",
