@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "538f61d644ef51fd",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,14 +76,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "eaaa7cd14d91b48b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
         ]
       },
@@ -86,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,17 +197,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7f3f48137e151093",
+  "active": "538f61d644ef51fd",
   "lastOpenFiles": [
+    "AAA-Utilities/000-Templates/Style-Template.md",
+    "Spaces/Home",
+    "Spaces",
     "AAA-Utilities/000-Templates/Resource-Note-Template.md",
     "AAA-Utilities/000-Templates/Figure-Note-Template.md",
     "AAA-Utilities/000-Templates/Dance-Template.md",
     "Dancing.md",
-    "AAA-Utilities/000-Templates/Style-Template.md",
     "Ballroom_Dances/Slow_Waltz/Slow_Waltz.md",
     "Ballroom_Dances/Ballroom_Dances.md",
     "Ballroom_Dances/Tango/Tango.md",
@@ -234,8 +234,6 @@
     "Extra_Dances/Argentine_Tango",
     "Extra_Dances/American_Box_Rumba",
     "Extra_Dances/Bachata",
-    "Extra_Dances/Salsa",
-    "Extra_Dances",
     "AAA-Utilities/001-Images/slowfox_icon.png",
     "AAA-Utilities/001-Images/slow_waltz_icon.png",
     "AAA-Utilities/001-Images/book_icon.png",
