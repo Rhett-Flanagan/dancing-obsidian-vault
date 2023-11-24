@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "AAA-Utilities/000-Templates",
+  "templates_folder": "AAA_Utilities/000_Templates",
   "templates_pairs": [
     [
       "",

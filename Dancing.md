@@ -21,22 +21,22 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 >
 > > [!resources_gradient_1]+ Glossary
-> > [![[AAA-Utilities/001-Images/book_icon.png|center|100]]](Resources/Glossary.md)
+> > [![[AAA_Utilities/001_Images/book_icon.png|center|100]]](Resources/Glossary.md)
 > > Collection of terms and abbreviations used throughout this and other resources.
 > > 
 > 
 > > [!resources_gradient_2]+ Alignment
-> > [![[AAA-Utilities/001-Images/footwork_icon.png|center|100]]](Resources/Alignment.md)
+> > [![[AAA_Utilities/001_Images/footwork_icon.png|center|100]]](Resources/Alignment.md)
 > > Descriptions and diagrams of movement alignment on the dance floor.
 > > 
 > 
 >  > [!resources_gradient_3]+ Floorwork
->  > [![[AAA-Utilities/001-Images/floor_icon.png|center|100]]](Resources/Floorwork.md)
+>  > [![[AAA_Utilities/001_Images/floor_icon.png|center|100]]](Resources/Floorwork.md)
 >  > Notes on avoiding people, what to look out for and general awareness.
 >  > 
 >  
 >  > [!resources_gradient_4]+ Etiquette 
->  > [![[AAA-Utilities/001-Images/handshake_icon.png|center|100]]](Resources/Etiquette.md)
+>  > [![[AAA_Utilities/001_Images/handshake_icon.png|center|100]]](Resources/Etiquette.md)
 >  > Notes on the etiquette of navigating a dance floor, competitions and other similar events.
 >  > 
 
@@ -45,27 +45,27 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
-> > [![[AAA-Utilities/001-Images/slow_waltz_icon.png|center|100]]](Ballroom_Dances/Slow_Waltz/Slow_Waltz.md) 
+> > [![[AAA_Utilities/001_Images/slow_waltz_icon.png|center|100]]](Ballroom_Dances/Slow_Waltz/Slow_Waltz.md) 
 > > 
 > 
 > > [!ballroom_gradient_2]+ Tango
-> > [![[AAA-Utilities/001-Images/tango_icon.png|center|100]]](Ballroom_Dances/Tango/Tango.md) 
+> > [![[AAA_Utilities/001_Images/tango_icon.png|center|100]]](Ballroom_Dances/Tango/Tango.md) 
 > > 
 > 
 > > [!ballroom_gradient_3]+ Viennese Waltz
-> > [![[AAA-Utilities/001-Images/viennese_icon.png|center|100]]](Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md) 
+> > [![[AAA_Utilities/001_Images/viennese_icon.png|center|100]]](Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md) 
 > > 
 > 
 > > [!ballroom_gradient_4]+ Slow Foxtrot
-> > [![[AAA-Utilities/001-Images/slowfox_icon.png|center|100]]](Ballroom_Dances/Slow_Foxtrot/Slow_Foxtrot.md) 
+> > [![[AAA_Utilities/001_Images/slowfox_icon.png|center|100]]](Ballroom_Dances/Slow_Foxtrot/Slow_Foxtrot.md) 
 > > 
 > 
 > > [!ballroom_gradient_5]+ Quickstep
-> > [![[AAA-Utilities/001-Images/quickstep_icon.png|center|100]]](Ballroom_Dances/Quickstep/Quickstep.md)
+> > [![[AAA_Utilities/001_Images/quickstep_icon.png|center|100]]](Ballroom_Dances/Quickstep/Quickstep.md)
 > > 
 > 
 > > [!ballroom_gradient_6]+ Rhythm Foxtrot
-> > [![[AAA-Utilities/001-Images/rhythmfox_icon.png|center|100]]](Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md) 
+> > [![[AAA_Utilities/001_Images/rhythmfox_icon.png|center|100]]](Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md) 
 > > 
 > 
 
@@ -74,23 +74,23 @@ Preamble done, onto the notes:
 > [!multi-column|center]
 > 
 > > [!latin_gradient_1]+ Cha Cha Cha
-> > [![[AAA-Utilities/001-Images/cha_cha_cha_icon.png|center|100]]]
+> > [![[AAA_Utilities/001_Images/cha_cha_cha_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_2]+ Samba
-> > [![[AAA-Utilities/001-Images/samba_icon.png|center|100]]]
+> > [![[AAA_Utilities/001_Images/samba_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_3]+ Cuban/International Rumba
-> > [![rumba_icon](AAA-Utilities/001-Images/cuban_rumba_icon.png)]
+> > [![rumba_icon](AAA_Utilities/001_Images/cuban_rumba_icon.png)]
 > > 
 > 
 > > [!latin_gradient_4]+ Paso Doble
-> > [![[AAA-Utilities/001-Images/paso_doble_icon.png|center|100]]]
+> > [![[AAA_Utilities/001_Images/paso_doble_icon.png|center|100]]]
 > > 
 > 
 > > [!latin_gradient_5]+ Jive
-> > [![[AAA-Utilities/001-Images/jive_icon.png|center|100]]]
+> > [![[AAA_Utilities/001_Images/jive_icon.png|center|100]]]
 > > 
 > 
 
