@@ -11,3 +11,7 @@ Ballroom dance is a set of partner dances with both social and competitive aspec
 
 These notes focus on the International Standard section of dance.
 
+## History
+The term "ballroom dancing" is derived from the Latin word *ballare*, meaning 'to dance', and a ball-room being a large room specifically designed for such dances.
+
+The earliest authoritative knowledge of early ballroom dancing was published in 1588 by *Jehan Tabourot*, under the pen name *Thoinot-Arbeau*

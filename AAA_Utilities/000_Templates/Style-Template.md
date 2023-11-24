@@ -4,6 +4,6 @@ parent: "[[../../Dancing|Dancing]]"
 references: ""
 tags:
 ---
-[Dancing](../../Dancing.md)
+[[../../Dancing|Dancing]]
 # Title
 
