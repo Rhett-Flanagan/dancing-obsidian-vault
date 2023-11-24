@@ -3,6 +3,7 @@ file_title: Title
 parent: "[[../../Dancing|Dancing]]"
 references: ""
 tags:
+  - history
 ---
 [[../../Dancing|Dancing]]
 # History
