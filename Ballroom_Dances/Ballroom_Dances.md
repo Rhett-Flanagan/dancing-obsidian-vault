@@ -25,3 +25,6 @@ Modern ballroom has it's roots in the early 20th century, with several shifts ha
 
 A third event was a concerted effort to transform some of the resulting dance crazes into dances teachable to a wider dance public in the U.S. and Europe. Several professionals, such as [Vernon and Irene Castle](https://en.wikipedia.org/wiki/Vernon_and_Irene_Castle), [Josephine Bradley](https://en.wikipedia.org/wiki/Josephine_Bradley), and [Victor Silvester](https://en.wikipedia.org/wiki/Victor_Silvester) analysed, codified, published and taught a number of standard dances. This allowed popular dance to flourish, as it allowed dancers to have some basic movements they could perform with any partner they met. The [Arthur Murray Organisation](https://en.wikipedia.org/wiki/Arthur_Murray), and dance societies such as [The Imperial Society of Teachers of Dancing] in America and England respectively were major influences in this movement. Further, this occurred after a period of World War, with the extreme conflict having a considerable effect in dissolving the old customs.
 
+In the 1930s televised dance influenced the U.S. and elsewhere, specifically the sequence dances of [Fred Astaire](https://en.wikipedia.org/wiki/Fred_Astaire) and [Ginger Rogers](https://en.wikipedia.org/wiki/Ginger_Rogers, portraying predominantly social dancing.
+
+## Competitiv
