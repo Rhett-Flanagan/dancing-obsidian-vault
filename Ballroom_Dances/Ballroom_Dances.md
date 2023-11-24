@@ -1,9 +1,10 @@
-# Ballroom_Dances---
-file_title: Title
-parent: "[Home](Home.md)"
+---
+file_title: Ballroom Dance
+parent: "[[../../Dancing|Dancing]]"
 references: ""
 tags:
-  - resource
 ---
 [Dancing](../../Dancing.md)
-# Title
+# Ballroom Dance
+
+Ballroom dance is a set of partner dances with both 

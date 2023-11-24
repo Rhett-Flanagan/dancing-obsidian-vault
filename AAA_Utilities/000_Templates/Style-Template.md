@@ -1,8 +1,8 @@
 ---
 file_title: Title
-parent: 
+parent: "[[../../Dancing|Dancing]]"
 references: ""
-tags: ""
+tags:
 ---
 [Dancing](../../Dancing.md)
 # Title
