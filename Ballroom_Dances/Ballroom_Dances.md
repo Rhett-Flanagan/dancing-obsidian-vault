@@ -21,4 +21,6 @@ Ballet and ballroom split apart  in the 17th century when professional dancers a
 The waltz in it's modern form was rooted in England in about 1812, with 1819 marking the adoption of the waltz form into the sphere of absolute music. Initially the dance was met with opposition due to the closed hold appearing improper, though this stance gradually softened. 
 
 ### 20th Century
-Modern ballroom has it's roots in the early 20th century, with several shifts happening at a similar time. The first was a shift away from sequence dances towards couples moving independently. This had been pre-figured by the waltz, which had already made this transition. The second was a wave of new popular music
+Modern ballroom has it's roots in the early 20th century, with several shifts happening at a similar time. The first was a shift away from sequence dances towards couples moving independently. This had been pre-figured by the waltz, which had already made this transition. The second was a wave of new popular music, such as jazz, and with dance being tied to music to a large extent, it subsequently lead to a burst of newly invented dances.
+
+A third event was a concerted effort to transform some of the resulting dance crazes into dances teachable to a wider dance public in the U.S. and Europe. Several professionals, such as [Vernon and Irene Castle](https://en.wikipedia.org/wiki/Vernon_and_Irene_Castle), [Josephine Bradley](https://en.wikipedia.org/wiki/Josephine_Bradley), and [Victor Silvester](https://en.wikipedia.org/wiki/Victor_Silvester)
