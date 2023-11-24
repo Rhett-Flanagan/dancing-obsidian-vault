@@ -40,29 +40,27 @@ Preamble done, onto the notes:
 >  > Notes on the etiquette of navigating a dance floor, competitions and other similar events.
 >  > 
 
-## Ballroom Dances
-
-
+## [[Ballroom_Dances/Ballroom_Dances]] 
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
-> > [![[AAA_Utilities/001_Images/slow_waltz_icon.png|center|100]]](Ballroom_Dances/Slow_Waltz/Slow_Waltz.md) 
+> > [![[AAA_Utilities/001_Images/slow_waltz_icon.png|center|100]]](Ballroom_Dances/International_Standard/Slow_Waltz/Slow_Waltz.md) 
 > > 
 > 
 > > [!ballroom_gradient_2]+ Tango
-> > [![[AAA_Utilities/001_Images/tango_icon.png|center|100]]](Ballroom_Dances/Tango/Tango.md) 
+> > [![[AAA_Utilities/001_Images/tango_icon.png|center|100]]](Ballroom_Dances/International_Standard/Tango/Tango.md) 
 > > 
 > 
 > > [!ballroom_gradient_3]+ Viennese Waltz
-> > [![[AAA_Utilities/001_Images/viennese_icon.png|center|100]]](Ballroom_Dances/Viennese_Waltz/Viennese_Waltz.md) 
+> > [![[AAA_Utilities/001_Images/viennese_icon.png|center|100]]](Ballroom_Dances/International_Standard/Viennese_Waltz/Viennese_Waltz.md) 
 > > 
 > 
 > > [!ballroom_gradient_4]+ Slow Foxtrot
-> > [![[AAA_Utilities/001_Images/slowfox_icon.png|center|100]]](Ballroom_Dances/Slow_Foxtrot/Slow_Foxtrot.md) 
+> > [![[AAA_Utilities/001_Images/slowfox_icon.png|center|100]]](Ballroom_Dances/International_Standard/Slow_Foxtrot/Slow_Foxtrot.md) 
 > > 
 > 
 > > [!ballroom_gradient_5]+ Quickstep
-> > [![[AAA_Utilities/001_Images/quickstep_icon.png|center|100]]](Ballroom_Dances/Quickstep/Quickstep.md)
+> > [![[AAA_Utilities/001_Images/quickstep_icon.png|center|100]]](Ballroom_Dances/International_Standard/Quickstep/Quickstep.md)
 > > 
 > 
 > > [!ballroom_gradient_6]+ Rhythm Foxtrot
