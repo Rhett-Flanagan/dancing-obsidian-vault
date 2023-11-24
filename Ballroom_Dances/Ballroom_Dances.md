@@ -18,7 +18,4 @@ The term "ballroom dancing" is derived from the Latin word *ballare*, meaning 't
 Ballet and ballroom split apart  in the 17th century when professional dancers appeared in the ballet, and ballet left the Court for the stage. Ballet techniques, such as the *turned out* positions of the feet lingered for more than two centuries, past the end of the Victorian era.
 
 ### 19th Century
-The waltz in it's modern form was rooted in England in about 1812, with 1819[^1].
-
-
-[^1]: 
+The waltz in it's modern form was rooted in England in about 1812, with 1819 marking the adoption of the waltz form into the sphere of absolute music
