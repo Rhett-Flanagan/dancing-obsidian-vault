@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d97b988c58f13cef",
+        "id": "6aca67f47bf4cd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3f48137e151093",
+            "id": "d47e520cc6e6e198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "Dancing.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md"
+                "file": "Dancing.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "Dancing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA-Utilities/000-Templates/Style-Template.md",
+                "file": "Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f3f48137e151093",
+  "active": "d47e520cc6e6e198",
   "lastOpenFiles": [
     "AAA-Utilities/000-Templates/Style-Template.md",
     "Spaces/Home",
