@@ -1,0 +1,146 @@
+/* based on original design by FeikeB:
+   https://forum.obsidian.md/t/want-a-multi-level-dropdown-menu-inside-your-notes-you-can-i-built-one/40501
+   converted (badly) to callout by sailKite */
+.callout[data-callout="navmenu"] {
+
+    /* Gradient color selections */
+    &[data-callout-metadata*="Blue_gradient_1"] { --custom-background-color: #2D22C6; }
+    &[data-callout-metadata*="Blue_gradient_2"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_3"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_4"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_5"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_6"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_7"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_8"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_9"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_10"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_11"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_12"] { --custom-background-color: #FFFFFF; }
+    &[data-callout-metadata*="Blue_gradient_13"] { --custom-background-color: #FFFFFF; }
+
+    --item-gap: 6px;
+    background-color: transparent;
+    --link-color: var(--custom-background-color);
+    --link-color-hover: var(--custom-background-color);
+    margin: 0;
+    border: 0;
+    padding: 0;
+    overflow: visible;
+    z-index: 10;
+
+    & > .callout-content ul li a {
+        pointer-events: auto;
+    }
+
+    & .callout-content a {
+        position: relative;
+    }
+
+    & * {
+        pointer-events: auto;
+        
+        :is(:hover > *) {
+            transition-delay: 500ms !important;
+        }
+    }
+
+    & > .callout-title { display: none; }
+
+    & > .callout-content {
+        overflow: visible;
+        isolation: isolate;
+        z-index: 10;
+
+        & :is(.list-bullet, .list-collapse-indicator) { display: none; }
+
+        & ul {
+            display: flex;
+            position: relative;
+            padding-inline-start: 0;
+            z-index: 10;
+
+            &::before, &::after { display: none; }
+
+            &::before {
+                content: "";
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                bottom: unset;
+                border: unset;
+            }
+
+            & li {
+                background: #070407;
+                border: 1px solid var(--custom-background-color); /* Border color #2D22C6 */
+                color: var(--custom-background-color); !important; /* Text color #2D22C6 */
+                font-weight: bold;
+                min-width: 200px;
+                min-height: 30px;
+                transition: background 0.2s, color 0.2s, transform 0.2s;
+                margin: 0px var(--item-gap) var(--item-gap) 0px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                box-sizing: border-box;
+                border-radius: 3px;
+                box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+                position: relative;
+                text-align: center;
+                list-style: none;
+                display: block;
+                z-index: 10;
+
+                &:not(:hover, :has(:hover)) {
+                    overflow: hidden;
+                }
+
+                & > ul > li {
+                    transition: transform 0.2s, opacity 0.2s;
+                    transform: translateY(150%);
+                    opacity: 0;
+                }
+
+                &:is(:hover, :has(:hover)) {
+                    &::before {
+                        content: "";
+                        position: absolute;
+                        inset: 0;
+                        width: calc(100% + var(--item-gap));
+                        height: calc(100% + var(--item-gap));
+                    }
+                    & > ul > li {
+                        transform:translateX(0%);
+                        opacity: 1;
+                    }
+                }
+            }
+
+            & ul {
+                position: absolute;
+                flex-direction: column;
+                top: calc(100% + var(--item-gap));
+
+                & > li > ul {
+                    top: 0;
+                    left: calc(100% + var(--item-gap));
+                    
+                    & > li {
+                        transform: translateX(195px);
+                    }
+                }
+            }
+        }
+    }
+
+    .markdown-source-view.mod-cm6 .cm-content > [contenteditable=false]:has(> .markdown-rendered > &) {
+        contain: none !important;
+
+        &:hover {
+            contain: none !important;
+            overflow: visible;
+        }
+    }
+}
