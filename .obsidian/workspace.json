@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a814023d0764abb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competitive_Dancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "Competitive_Dancing.md"
               }
             }
           },
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "History.md",
+                "file": "Competitive_Dancing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "Competitive_Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "Competitive_Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,17 +221,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a4500145626aac3",
+  "active": "a814023d0764abb5",
   "lastOpenFiles": [
-    "AAA_Utilities/000_Templates/Style-Template.md",
-    "History.md",
-    "Dancing.md",
     "Ballroom_Dances/Ballroom_Dances.md",
+    "Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md",
     "Ballroom_Dances/International_Standard/International_Standard.md",
+    "Dancing.md",
+    "Competitive_Dancing.md",
+    "History.md",
+    "AAA_Utilities/000_Templates/Style-Template.md",
     "Ballroom_Dances/International_Standard/Viennese_Waltz/Viennese_Waltz.md",
     "Ballroom Dances.md",
     "Ballroom_Dances/International_Standard",
-    "Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md",
     "AAA_Utilities/000_Templates/Resource-Note-Template.md",
     "AAA_Utilities/000_Templates/Figure-Note-Template.md",
     "AAA_Utilities/000_Templates/Dance-Template.md",

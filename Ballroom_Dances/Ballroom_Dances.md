@@ -3,6 +3,7 @@ file_title: Ballroom Dance
 parent: "[[../../Dancing|Dancing]]"
 references: ""
 tags:
+  - ballroom
 ---
 [Dancing](../../Dancing.md)
 # Ballroom Dance
