@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "Dancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4500145626aac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md"
+                "file": "History.md"
               }
             }
           },
@@ -98,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "edfcc16b96f1e2df",
@@ -115,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "History.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ballroom_Dances/Ballroom_Dances.md",
+                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +209,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d47e520cc6e6e198",
+  "active": "9a4500145626aac3",
   "lastOpenFiles": [
     "AAA_Utilities/000_Templates/Style-Template.md",
-    "Ballroom_Dances/International_Standard/International_Standard.md",
-    "Ballroom_Dances/Ballroom_Dances.md",
+    "History.md",
     "Dancing.md",
+    "Ballroom_Dances/Ballroom_Dances.md",
+    "Ballroom_Dances/International_Standard/International_Standard.md",
     "Ballroom_Dances/International_Standard/Viennese_Waltz/Viennese_Waltz.md",
     "Ballroom Dances.md",
     "Ballroom_Dances/International_Standard",
