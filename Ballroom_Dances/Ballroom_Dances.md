@@ -18,4 +18,7 @@ The term "ballroom dancing" is derived from the Latin word *ballare*, meaning 't
 Ballet and ballroom split apart  in the 17th century when professional dancers appeared in the ballet, and ballet left the Court for the stage. Ballet techniques, such as the *turned out* positions of the feet lingered for more than two centuries, past the end of the Victorian era.
 
 ### 19th Century
-The waltz in it's modern form was rooted in England in about 1812, with 1819 marking the adoption of the waltz form into the sphere of absolute music
+The waltz in it's modern form was rooted in England in about 1812, with 1819 marking the adoption of the waltz form into the sphere of absolute music. Initially the dance was met with opposition due to the closed hold appearing improper, though this stance gradually softened. 
+
+### 20th Century
+Modern ballroom has it's roots in the early 20th century, with several shifts happening at a similar time. The first was a shift away from sequence dances towards couples moving independently. This had been pre-figured by the waltz, which had already made this transition. The second was a wave of new popular music
