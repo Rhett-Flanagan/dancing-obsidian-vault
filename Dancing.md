@@ -42,6 +42,7 @@ Preamble done, onto the notes:
 
 ## Ballroom Dances
 
+
 > [!multi-column|center]
 > 
 > > [!ballroom_gradient_1]+ Slow Waltz
