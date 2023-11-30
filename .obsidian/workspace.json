@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6406f1b55c2001",
+        "id": "230450a67e9b9aef",
         "type": "tabs",
         "children": [
           {
-            "id": "597b8724cba02221",
+            "id": "193b4866a325d093",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "597b8724cba02221",
+  "active": "193b4866a325d093",
   "lastOpenFiles": [
     "AAA_Utilities/000_Templates/Dance-Template.md",
     "Dancing.md",
