@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6aca67f47bf4cd2c",
+        "id": "7d6406f1b55c2001",
         "type": "tabs",
         "children": [
           {
-            "id": "d47e520cc6e6e198",
+            "id": "597b8724cba02221",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a4500145626aac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a814023d0764abb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competitive_Dancing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Competitive_Dancing.md"
+                "file": "Dancing.md"
               }
             }
           },
@@ -139,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Competitive_Dancing.md",
+                "file": "Dancing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive_Dancing.md",
+                "file": "Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Competitive_Dancing.md",
+                "file": "Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a814023d0764abb5",
+  "active": "597b8724cba02221",
   "lastOpenFiles": [
-    "History.md",
     "Dancing.md",
-    "Competitive_Dancing.md",
+    "Resources/Alignment.md",
+    "Resources/History.md",
+    "Resources/Competitive_Dancing.md",
+    "Resources/Glossary.md",
     "Ballroom_Dances/Ballroom_Dances.md",
     "Ballroom_Dances/Rhythm_Foxtrot/Rhythm_Foxtrot.md",
     "Ballroom_Dances/International_Standard/International_Standard.md",
@@ -248,7 +225,6 @@
     "AAA_Utilities/001_Images/samba_icon.png",
     "AAA-Utilities/001-Images/rumba_icon.jpg",
     "AAA_Utilities/001_Images/cha_cha_cha_icon.png",
-    "Resources/Glossary.md",
     "Resources/Etiquette.md",
     "Resources/Floorwork.md",
     "Ballroom_Dances/International_Standard/Quickstep/Quickstep.md",
@@ -261,7 +237,6 @@
     "AAA_Utilities/001_Images/slowfox_icon.png",
     "AAA_Utilities/001_Images/slow_waltz_icon.png",
     "AAA_Utilities/001_Images/book_icon.png",
-    "Resources/attachments/Alignment_Diagram.png",
-    "Resources/Alignment.md"
+    "Resources/attachments/Alignment_Diagram.png"
   ]
 }

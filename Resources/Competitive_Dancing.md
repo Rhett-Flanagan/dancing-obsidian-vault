@@ -11,3 +11,5 @@ Competitions are organised through various proficiency levels, with the highest 
 
 Each country has their own regulations for dancing, and roughly 30 regularly compete in international competitions, with a further 20 odd countries having membership of the WDC and/or the WSDF, but rarely appearing in international competition.
 
+## Elements of Competition
+In competitive ballroom, adjudicatoin
